@@ -1,1 +1,5 @@
-# cartao-de-perfil
+# Cartão de Perfil
+Exercício proposto no fim do módulo de CSS Avançado com Flex-box.
+
+- Resultado final do cartão:
+[<img src="./src/design/design-cartao.jpg" alt="Design Cartão">]
